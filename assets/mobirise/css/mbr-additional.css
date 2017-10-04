@@ -1714,7 +1714,7 @@ body {
   }
 }
 .cid-qx3zmNtlr0 {
-  background-image: url("../../../assets/images/375418-2000x1250.jpg");
+  background-image: url("../../../assets/images/grunge-abstract-background-1048-1923-626x486.jpg");
 }
 .cid-qx3zmNtlr0 h1 {
   color: #616161;
@@ -1734,7 +1734,7 @@ body {
   color: #f7ed4a;
 }
 .cid-qx3zmNtlr0 P {
-  color: #f7ed4a;
+  color: #130f0b;
 }
 .cid-qwEaijoa48 {
   padding-top: 15px;
@@ -2247,7 +2247,7 @@ body {
 .cid-qwXM2OnOFM {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-image: url("../../../assets/images/grunge-abstract-background-1048-1923-626x486.jpg");
 }
 .cid-qwXM2OnOFM .mbr-section-subtitle {
   color: #767676;
@@ -2308,6 +2308,7 @@ body {
   padding-bottom: 1rem;
   padding-top: 1rem;
   white-space: normal !important;
+  color: #39ab23;
 }
 @media (max-width: 992px) {
   .cid-qwXM2OnOFM .dataTables_filter {
@@ -2328,6 +2329,9 @@ body {
 }
 .cid-qwXM2OnOFM .mbr-section-subtitle B {
   color: #f7ed4a;
+}
+.cid-qwXM2OnOFM LABEL {
+  color: #39ab23;
 }
 .cid-qwDHqyZDcu .navbar {
   padding: .5rem 0;
@@ -2708,7 +2712,7 @@ body {
 .cid-qx1yKr4jQy {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #232323;
+  background-color: #130f0b;
 }
 .cid-qx1yKr4jQy .mbr-slider .carousel-control {
   background: #1b1b1b;

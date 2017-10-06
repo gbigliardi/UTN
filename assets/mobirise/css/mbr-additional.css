@@ -2364,12 +2364,11 @@ body {
   color: #f7ed4a;
 }
 .cid-qx7q8FQHm1 {
-  padding-top: 60px;
-  padding-bottom: 60px;
   background: #130f0b;
 }
 .cid-qx7q8FQHm1 .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-qx7q8FQHm1 figcaption {
   position: relative;
